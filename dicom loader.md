@@ -31,7 +31,7 @@ Contributions to the DICOM Loader for InVesalius project are welcome! To contrib
 
 ## Credits
 
-The DICOM Loader for InVesalius was developed by [Your Name] as part of [Project Name]. The tool was developed using Python and wxPython, and the Orthanc PACS server and REST API were used for storing and retrieving DICOM images.
+The DICOM Loader for InVesalius was developed by Abhay Ahirkar as part of 'Add PACS Communication'. The tool was developed using Python and wxPython, and the Orthanc PACS server and REST API were used for storing and retrieving DICOM images.
 
 ## License
 
